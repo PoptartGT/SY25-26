@@ -1,0 +1,9 @@
+Car
+Boat
+Tree
+Food
+Book
+Cat
+Rat
+I ate two Burgers (not true)
+House
